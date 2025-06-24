@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+my+favorite+coder!)](https://git.io/typing-svg)
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Artem</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center"Python programmer, and just a funny guy from Russia 🇷🇺</h3>
 
 # My interests
 <p align="left"> <img src="https://skillicons.dev/icons?i=python,github,discord,git,windows,vscode,linux&theme=dark" alt="Tech Stack"/> </p>
